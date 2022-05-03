@@ -124,11 +124,6 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"msteams"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
                  "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_MzNkYTFhMTAtYTQ0MC00ZDk4LWEyZmUtMGRmMTk5YjAyMmRl%40thread.v2\/0?context=%7b%22Tid%22%3a%2238ae3bcd-9579-4fd4-adda-b42e1495d55a%22%2c%22Oid%22%3a%22e5aa06a8-ba9d-42f6-b4f8-949d1595e3eb%22%7d"
                 }, 
                 {
