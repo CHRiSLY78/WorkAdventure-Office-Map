@@ -189,7 +189,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"zone",
                  "visible":true,
                  "width":173.121212121212,
                  "x":1301.54545454545,
@@ -216,7 +216,7 @@
                          "value":"Dr\u00fccke SPACE um den Kopierer zu nutzen..."
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"zone",
                  "visible":true,
                  "width":60,
                  "x":102.833333333333,
@@ -248,7 +248,7 @@
                          "value":"Dr\u00fccke SPACE um in einen MS Teams Raum zu wechseln (zuvor Cam WA deaktivieren)..."
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"zone",
                  "visible":true,
                  "width":176,
                  "x":823.333333333333,
@@ -280,7 +280,7 @@
                          "value":"teamjoin.de"
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"zone",
                  "visible":true,
                  "width":274,
                  "x":533.333333333333,
@@ -307,7 +307,7 @@
                          "value":"teamjoin.de"
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"zone",
                  "visible":true,
                  "width":338,
                  "x":187.333333333333,
@@ -377,8 +377,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":60,
- "nextobjectid":19,
+ "nextlayerid":61,
+ "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
         {
